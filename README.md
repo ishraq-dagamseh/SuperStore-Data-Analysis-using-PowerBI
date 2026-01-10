@@ -13,6 +13,8 @@ In this project we used dataset froom Kaggle, that called: SuperStore. Which con
 | Sub-Category  | Product group        |
 | Sales         | Revenue              |
 | Profit        | Profit or loss       |
+
+
 we applied this steps:
 1. Remove empty rows
 Home → Remove Rows → Remove Blank Rows
