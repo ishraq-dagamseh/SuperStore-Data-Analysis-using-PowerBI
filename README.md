@@ -1,6 +1,6 @@
 # SuperStore-Data-Analysis-using-PowerBI
 
-In this project we used dataset froom Kaggle, that called: SuperStore. Which consist this columns:
+In this project we used dataset from Kaggle, that called: SuperStore. Which consist this columns:
 | Column        | Meaning              |
 | ------------- | -------------------- |
 | Order ID      | Unique order         |
@@ -15,7 +15,7 @@ In this project we used dataset froom Kaggle, that called: SuperStore. Which con
 | Profit        | Profit or loss       |
 
 
-we applied this steps:
+we used powerBI to making  data analysis and producing dashboard to show the descriptive analysis and we applied this steps:
 1. Remove empty rows
 Home → Remove Rows → Remove Blank Rows
 2. Change Date Format
@@ -28,7 +28,9 @@ From OrderDate:
 Select OrderDate
 Add Column → Date → Year → Year
 Add Column → Date → Month → Name of Month
+
 5.Handle Missing Values ex:Replace null Sales with 0 and Remove rows with missing CustomerName
+
 6. Create a Profit Category Column. By: Create a conditional column:
 Profit > 0 → "Profit"
 Profit ≤ 0 → "Loss"
