@@ -41,7 +41,7 @@ Profit ≤ 0 → "Loss"
   
   7.1 Create Key Measures By DAX: Total Sales = SUM(Orders[Sales]) and Total Profit = SUM(Orders[Profit]) 
   
-  7.2 Go to Report view after saving your work in Table view, then Create 2 cards:Card → Total Sales and Card → Total Profit to answer about  How much did we sell? How much profit did we make?
+  7.2 Going to the Report view after saving your work in Table view, then we Created 2 cards:Card → Total Sales and Card → Total Profit to answer about  How much did we sell? How much profit did we make?
   
    7.2.2 show Sales by Region using Bar Chart to answer about Which region sells most? and show Monthly Sales Trend using Trend Line to show Sales trend over time and finally we used Donut chart to show Profit vs Loss  to show about: How much sales are profitable?
 
