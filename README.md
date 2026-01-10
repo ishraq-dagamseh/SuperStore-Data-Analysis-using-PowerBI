@@ -23,6 +23,7 @@ Order Date → Date
 Ship Date → Date
 3.Check Sales & Profit
 Ensure they are Decimal numbers
+
 4. Create Year & Month Columns
 From OrderDate:
 Select OrderDate
