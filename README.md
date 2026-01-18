@@ -49,4 +49,4 @@ Profit ≤ 0 → "Loss"
 
 # Final Dashboard
 
-<img width="887" height="490" alt="image" src="https://github.com/user-attachments/assets/6f7cd9f7-ecf7-4d33-af12-24d99a16d17e" />
+<img width="880" height="488" alt="image" src="https://github.com/user-attachments/assets/7419ab9c-8188-42ac-9a90-260159337c1b" />
